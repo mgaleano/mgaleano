@@ -2,7 +2,7 @@
 
 Technology enthusiast, researcher, self-taught person, I'm always willing to learn and help others.
 
-I have +12 years of experience in the Software Quality field. My experience ranges from software testing to test automation, functional and non-functional. I have a good background in Agile methodologies, development of testing frameworks and definition of testing processes and good practices.
+I have +14 years of experience in the Software Quality field. My experience ranges from software testing to test automation, functional and non-functional. I have a good background in Agile methodologies, development of testing frameworks and definition of testing processes and good practices.
 
 more_[about.me](https://about.me/marcos.galeano)
 
